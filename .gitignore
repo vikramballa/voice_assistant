@@ -1,0 +1,61 @@
+# ---------------------------------------------------------------
+# Private notes: kept on this machine, never pushed
+# ---------------------------------------------------------------
+docs/
+CLAUDE.md
+.claude/
+graphify-out/
+
+# ---------------------------------------------------------------
+# Personal data created while Laya runs (never commit)
+#   logs/commands.db       every command you gave
+#   models/voiceprint.npz  your voiceprint
+#   models/phrasebook.json your routines and corrections
+# ---------------------------------------------------------------
+logs/
+*.log
+*.db
+*.sqlite3
+
+# ---------------------------------------------------------------
+# Models: downloaded on first start, or trained by train/finetune.py
+# ---------------------------------------------------------------
+models/
+train/laya-mac/
+*.safetensors
+*.onnx
+*.gguf
+
+# ---------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Secrets / local settings
+.env
+.env.*
+
+# Resized copies the vision model writes next to a test image (e.g. youtube_results-1024.png)
+tests/data/*-[0-9]*.png
+
+# ---------------------------------------------------------------
+# OS and editors
+# ---------------------------------------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+.playwright-mcp/

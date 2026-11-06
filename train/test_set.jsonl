@@ -1,0 +1,82 @@
+{"text": "open chrome and search youtube for neural networks", "intent": "youtube_search", "args": ["neural networks", "chrome"]}
+{"text": "search youtube for lofi music", "intent": "youtube_search", "args": ["lofi music", "chrome"]}
+{"text": "play a video about black holes", "intent": "youtube_search", "args": ["black holes", "chrome"]}
+{"text": "find python tutorials on youtube", "intent": "youtube_search", "args": ["python tutorials", "chrome"]}
+{"text": "show me videos of cute cats", "intent": "youtube_search", "args": ["cute cats", "chrome"]}
+{"text": "youtube search for how to make pasta in safari", "intent": "youtube_search", "args": ["how to make pasta", "safari"]}
+{"text": "google best pizza near me", "intent": "web_search", "args": ["best pizza near me", "chrome"]}
+{"text": "search for weather in hyderabad", "intent": "web_search", "args": ["weather in hyderabad", "chrome"]}
+{"text": "look up the population of india", "intent": "web_search", "args": ["the population of india", "chrome"]}
+{"text": "open safari and google cheap flights to dubai", "intent": "web_search", "args": ["cheap flights to dubai", "safari"]}
+{"text": "search the web for transformer architecture", "intent": "web_search", "args": ["transformer architecture", "chrome"]}
+{"text": "google who won the cricket match yesterday", "intent": "web_search", "args": ["who won the cricket match yesterday", "chrome"]}
+{"text": "open github.com", "intent": "open_website", "args": ["github.com", "chrome"]}
+{"text": "go to gmail", "intent": "open_website", "args": ["mail.google.com", "chrome"]}
+{"text": "open youtube in safari", "intent": "open_website", "args": ["youtube.com", "safari"]}
+{"text": "visit wikipedia.org", "intent": "open_website", "args": ["wikipedia.org", "chrome"]}
+{"text": "open safari", "intent": "open_app", "args": ["Safari"]}
+{"text": "launch chrome", "intent": "open_app", "args": ["Google Chrome"]}
+{"text": "open the calculator", "intent": "open_app", "args": ["Calculator"]}
+{"text": "start notes", "intent": "open_app", "args": ["Notes"]}
+{"text": "open finder", "intent": "open_app", "args": ["Finder"]}
+{"text": "open system settings", "intent": "open_app", "args": ["System Settings"]}
+{"text": "close safari", "intent": "close_app", "args": ["Safari"]}
+{"text": "quit chrome", "intent": "close_app", "args": ["Google Chrome"]}
+{"text": "exit notes", "intent": "close_app", "args": ["Notes"]}
+{"text": "pause the music", "intent": "media_play_pause", "args": ["pause"]}
+{"text": "play music", "intent": "media_play_pause", "args": ["play"]}
+{"text": "resume the song", "intent": "media_play_pause", "args": ["play"]}
+{"text": "set volume to 30", "intent": "set_volume", "args": ["30"]}
+{"text": "volume 70", "intent": "set_volume", "args": ["70"]}
+{"text": "put the volume at 50 percent", "intent": "set_volume", "args": ["50"]}
+{"text": "turn it up", "intent": "volume_up", "args": []}
+{"text": "louder please", "intent": "volume_up", "args": []}
+{"text": "increase the volume", "intent": "volume_up", "args": []}
+{"text": "turn the volume down", "intent": "volume_down", "args": []}
+{"text": "make it quieter", "intent": "volume_down", "args": []}
+{"text": "mute", "intent": "mute", "args": []}
+{"text": "mute the sound", "intent": "mute", "args": []}
+{"text": "silence my mac", "intent": "mute", "args": []}
+{"text": "type hello world", "intent": "type_text", "args": ["hello world"]}
+{"text": "write see you tomorrow", "intent": "type_text", "args": ["see you tomorrow"]}
+{"text": "take a screenshot", "intent": "screenshot", "args": []}
+{"text": "capture the screen", "intent": "screenshot", "args": []}
+{"text": "lock my mac", "intent": "lock_screen", "args": []}
+{"text": "lock the screen", "intent": "lock_screen", "args": []}
+{"text": "what's the capital of france", "intent": "other", "args": null}
+{"text": "send an email to my professor", "intent": "other", "args": null}
+{"text": "order me a pizza", "intent": "other", "args": null}
+{"text": "open my downloads folder", "intent": "open_folder", "args": ["downloads"]}
+{"text": "show me the documents folder", "intent": "open_folder", "args": ["documents"]}
+{"text": "skip this song", "intent": "next_track", "args": []}
+{"text": "next song please", "intent": "next_track", "args": []}
+{"text": "play the previous song", "intent": "previous_track", "args": []}
+{"text": "go back one song", "intent": "previous_track", "args": []}
+{"text": "open terminal", "intent": "open_app", "args": ["Terminal"]}
+{"text": "close the calculator", "intent": "close_app", "args": ["Calculator"]}
+{"text": "set the volume to 20", "intent": "set_volume", "args": ["20"]}
+{"text": "what's the time", "intent": "other", "args": null}
+{"text": "please open gemini in my google account", "intent": "open_website", "args": ["gemini.google.com", "chrome"]}
+{"text": "open youtube", "intent": "open_website", "args": ["youtube.com", "chrome"]}
+{"text": "open google drive", "intent": "open_website", "args": ["drive.google.com", "chrome"]}
+{"text": "open my gmail in safari", "intent": "open_website", "args": ["mail.google.com", "safari"]}
+{"text": "open calender", "intent": "open_app", "args": ["Calendar"]}
+{"text": "volume up", "intent": "volume_up", "args": []}
+{"text": "turn the volume up to 80", "intent": "set_volume", "args": ["80"]}
+{"text": "what day is it today", "intent": "other", "args": null}
+{"text": "how much battery is left", "intent": "other", "args": null}
+{"text": "is my laptop charging", "intent": "other", "args": null}
+{"text": "search neural networks in", "intent": "web_search", "args": ["neural networks", "chrome"]}
+{"text": "tell me a joke", "intent": "other", "args": null}
+{"text": "turn on dark mode", "intent": "other", "args": null}
+{"text": "host", "intent": "other", "args": null}
+{"text": "who are you", "intent": "other", "args": null}
+{"text": "take a screenshot and lock my mac", "intent": "multi", "steps": [{"action": "screenshot", "args": []}, {"action": "lock_screen", "args": []}]}
+{"text": "open notes and type buy milk", "intent": "multi", "steps": [{"action": "open_app", "args": ["Notes"]}, {"action": "type_text", "args": ["buy milk"]}]}
+{"text": "mute and then lock the screen", "intent": "multi", "steps": [{"action": "mute", "args": []}, {"action": "lock_screen", "args": []}]}
+{"text": "open safari and go to github.com", "intent": "multi", "steps": [{"action": "open_website", "args": ["github.com", "safari"]}]}
+{"text": "search youtube for jazz and set volume to 40", "intent": "multi", "steps": [{"action": "youtube_search", "args": ["jazz", "chrome"]}, {"action": "set_volume", "args": ["40"]}]}
+{"text": "open spotify and play the next song", "intent": "multi", "steps": null}
+{"text": "open brave and search for pizza", "intent": "multi", "steps": [{"action": "web_search", "args": ["pizza", "brave"]}]}
+{"text": "open youtube and search for cats", "intent": "multi", "steps": [{"action": "youtube_search", "args": ["cats", "chrome"]}]}
+{"text": "open vs code", "intent": "multi", "steps": [{"action": "answer", "args": ["Visual Studio Code isn't installed on this Mac"]}]}

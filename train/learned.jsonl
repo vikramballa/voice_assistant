@@ -1,0 +1,7 @@
+{"text": "volume up", "intent": "volume_up"}
+{"text": "open youtube", "intent": "open_website"}
+{"text": "open the whole stringer in my google", "intent": "other"}
+{"text": "open brave and it", "intent": "open_app"}
+{"text": "what are you seeing", "intent": "other"}
+{"text": "what is the weather now", "intent": "other"}
+{"text": "what is the weather in christian", "intent": "other"}

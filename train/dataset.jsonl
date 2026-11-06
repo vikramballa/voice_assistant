@@ -1,0 +1,1158 @@
+{"text": "can you open medium on my google account", "intent": "open_website"}
+{"text": "open my applications folder", "intent": "open_folder"}
+{"text": "find videos about quantum computing", "intent": "youtube_search"}
+{"text": "volume at 17", "intent": "set_volume"}
+{"text": "lock the mac", "intent": "lock_screen"}
+{"text": "google mars rover near me", "intent": "web_search"}
+{"text": "let me type a note on the keyboard", "intent": "type_text"}
+{"text": "exit pgadmin 4", "intent": "close_app"}
+{"text": "save screen capture to clipboard", "intent": "screenshot"}
+{"text": "do a web search for how to tie a tie", "intent": "web_search"}
+{"text": "play last song", "intent": "previous_track"}
+{"text": "grab a screenshot", "intent": "screenshot"}
+{"text": "open google to find out the stock market index", "intent": "web_search"}
+{"text": "book a flight to delhi", "intent": "other"}
+{"text": "please type thanks a lot", "intent": "type_text"}
+{"text": "change volume to 1", "intent": "set_volume"}
+{"text": "show my pictures", "intent": "open_folder"}
+{"text": "navigate to google docs", "intent": "open_website"}
+{"text": "launch reminders", "intent": "open_app"}
+{"text": "lock my screen immediately", "intent": "lock_screen"}
+{"text": "show me videos of dogs playing", "intent": "youtube_search"}
+{"text": "kill zap", "intent": "close_app"}
+{"text": "next one", "intent": "previous_track"}
+{"text": "write ok sounds good", "intent": "type_text"}
+{"text": "please open mysqlworkbench", "intent": "open_app"}
+{"text": "look up gmail.com", "intent": "open_website"}
+{"text": "translate hello to hindi", "intent": "other"}
+{"text": "undo", "intent": "other"}
+{"text": "shut safe exam browser", "intent": "close_app"}
+{"text": "skip to next", "intent": "next_track"}
+{"text": "search youtube for cheap flights to goa", "intent": "youtube_search"}
+{"text": "open chrome and go to udemy", "intent": "open_website"}
+{"text": "quit mkplayer", "intent": "close_app"}
+{"text": "do a web search for movie reviews", "intent": "web_search"}
+{"text": "volume to 12 percent", "intent": "set_volume"}
+{"text": "last song", "intent": "previous_track"}
+{"text": "open movies in finder", "intent": "open_folder"}
+{"text": "open spotify", "intent": "open_app"}
+{"text": "put volume at 22", "intent": "set_volume"}
+{"text": "play a video about the weather tomorrow in safari", "intent": "youtube_search"}
+{"text": "find the latest tech news on the web", "intent": "web_search"}
+{"text": "delete all my files", "intent": "other"}
+{"text": "mute the music and sound", "intent": "mute"}
+{"text": "can you look up the population of china", "intent": "web_search"}
+{"text": "set volume to 17", "intent": "set_volume"}
+{"text": "find information about lofi beats", "intent": "web_search"}
+{"text": "look up the gmail website", "intent": "open_website"}
+{"text": "launch text editor", "intent": "open_app"}
+{"text": "google the history of rome", "intent": "web_search"}
+{"text": "launch zoom", "intent": "open_app"}
+{"text": "lock my screen now please", "intent": "lock_screen"}
+{"text": "navigate to gmail.com", "intent": "open_website"}
+{"text": "search the web for machine learning", "intent": "web_search"}
+{"text": "how do i fix my code", "intent": "other"}
+{"text": "find a video on how to code in javascript", "intent": "youtube_search"}
+{"text": "resume it", "intent": "media_play_pause"}
+{"text": "i can't hear it", "intent": "volume_up"}
+{"text": "search web for 'how to set up a home wifi'", "intent": "web_search"}
+{"text": "i need to write some text here", "intent": "type_text"}
+{"text": "play my music please", "intent": "media_play_pause"}
+{"text": "bring up image capture", "intent": "open_app"}
+{"text": "play despacito on youtube", "intent": "youtube_search"}
+{"text": "can you type ok sounds good", "intent": "type_text"}
+{"text": "run safari", "intent": "open_app"}
+{"text": "what's 12 plus 30", "intent": "other"}
+{"text": "kill whatsapp", "intent": "close_app"}
+{"text": "open numbers app", "intent": "open_app"}
+{"text": "back to the previous song", "intent": "previous_track"}
+{"text": "send me to gmail", "intent": "open_website"}
+{"text": "please open python.org", "intent": "open_website"}
+{"text": "back to last track", "intent": "previous_track"}
+{"text": "quit console", "intent": "close_app"}
+{"text": "type the words meeting at five", "intent": "type_text"}
+{"text": "bring up pages", "intent": "open_app"}
+{"text": "open stocks", "intent": "open_app"}
+{"text": "please open settings", "intent": "open_app"}
+{"text": "write happy birthday", "intent": "type_text"}
+{"text": "open my documents folder", "intent": "open_folder"}
+{"text": "let's play some tunes", "intent": "media_play_pause"}
+{"text": "put volume at 88", "intent": "set_volume"}
+{"text": "can you help me set up a new account", "intent": "other"}
+{"text": "find a video on how to code in python", "intent": "youtube_search"}
+{"text": "search google for quantum computing", "intent": "web_search"}
+{"text": "set the sound to 87", "intent": "set_volume"}
+{"text": "move this window left", "intent": "other"}
+{"text": "what is the weather now", "intent": "other"}
+{"text": "youtube search python decorators", "intent": "youtube_search"}
+{"text": "what's the latest news", "intent": "other"}
+{"text": "too loud", "intent": "volume_down"}
+{"text": "make the sound quieter by 10%", "intent": "volume_down"}
+{"text": "make it softer", "intent": "volume_down"}
+{"text": "lock the screen please", "intent": "lock_screen"}
+{"text": "search for mars rover in chrome", "intent": "web_search"}
+{"text": "open up quicktime player", "intent": "open_app"}
+{"text": "let me type a few words on the keyboard", "intent": "type_text"}
+{"text": "play next one", "intent": "next_track"}
+{"text": "watch world news videos", "intent": "youtube_search"}
+{"text": "open desktop please", "intent": "open_folder"}
+{"text": "shut down the computer", "intent": "other"}
+{"text": "play music from itunes", "intent": "media_play_pause"}
+{"text": "take me to arxiv", "intent": "open_website"}
+{"text": "search web for 'how to use a mac book pro'", "intent": "web_search"}
+{"text": "skip to next track please", "intent": "next_track"}
+{"text": "can you silence the volume", "intent": "mute"}
+{"text": "close the app", "intent": "close_app"}
+{"text": "send me to the github website", "intent": "open_website"}
+{"text": "visit github.com", "intent": "open_website"}
+{"text": "start the music stream", "intent": "media_play_pause"}
+{"text": "screenshot now", "intent": "screenshot"}
+{"text": "search google for 'best restaurants in paris'", "intent": "web_search"}
+{"text": "quit the app", "intent": "close_app"}
+{"text": "google taylor swift songs", "intent": "web_search"}
+{"text": "go to gmail.com in browser", "intent": "open_website"}
+{"text": "email my boss", "intent": "other"}
+{"text": "lower the volume please", "intent": "volume_down"}
+{"text": "open desktop", "intent": "open_folder"}
+{"text": "write out on my way", "intent": "type_text"}
+{"text": "can you open wikipedia.org on my google account", "intent": "open_website"}
+{"text": "youtube lofi beats", "intent": "youtube_search"}
+{"text": "make the volume louder", "intent": "volume_up"}
+{"text": "turn the sound up", "intent": "volume_up"}
+{"text": "look up the latest iphone", "intent": "web_search"}
+{"text": "please open claude", "intent": "open_website"}
+{"text": "close the tab", "intent": "close_app"}
+{"text": "capture without cursor", "intent": "screenshot"}
+{"text": "go to stack overflow", "intent": "open_website"}
+{"text": "open safari and go to reddit", "intent": "open_website"}
+{"text": "set volume to 18", "intent": "set_volume"}
+{"text": "lock screen immediately", "intent": "lock_screen"}
+{"text": "find information about taylor swift songs", "intent": "web_search"}
+{"text": "close calculator", "intent": "close_app"}
+{"text": "search youtube for lofi beats", "intent": "youtube_search"}
+{"text": "show me a video on the weather tomorrow", "intent": "youtube_search"}
+{"text": "stop the program", "intent": "close_app"}
+{"text": "set volume to 38", "intent": "set_volume"}
+{"text": "lock my screen", "intent": "lock_screen"}
+{"text": "please type on my way", "intent": "type_text"}
+{"text": "exit whatsapp", "intent": "close_app"}
+{"text": "play the music from spotify", "intent": "media_play_pause"}
+{"text": "make the volume quieter please", "intent": "volume_down"}
+{"text": "search for funny dog videos in safari", "intent": "web_search"}
+{"text": "enter the text good morning", "intent": "type_text"}
+{"text": "put volume at 95", "intent": "set_volume"}
+{"text": "set volume to 13", "intent": "set_volume"}
+{"text": "show desktop folder", "intent": "open_folder"}
+{"text": "i want to watch best laptops 2026", "intent": "youtube_search"}
+{"text": "louder", "intent": "volume_up"}
+{"text": "screenshot this window", "intent": "screenshot"}
+{"text": "snap the screen", "intent": "screenshot"}
+{"text": "launch finder", "intent": "open_app"}
+{"text": "bring up ollama", "intent": "open_app"}
+{"text": "type out dear sir", "intent": "type_text"}
+{"text": "exit index 0", "intent": "close_app"}
+{"text": "type good morning", "intent": "type_text"}
+{"text": "take me to kaggle", "intent": "open_website"}
+{"text": "go to next song", "intent": "next_track"}
+{"text": "volume at 73", "intent": "set_volume"}
+{"text": "quit stickies", "intent": "close_app"}
+{"text": "play a video about funny dog videos in safari", "intent": "youtube_search"}
+{"text": "exit the browser", "intent": "close_app"}
+{"text": "can you help me with typing this text", "intent": "type_text"}
+{"text": "launch chrome and search world news", "intent": "web_search"}
+{"text": "volume up a bit", "intent": "volume_up"}
+{"text": "change volume to 24", "intent": "set_volume"}
+{"text": "skip to next one", "intent": "next_track"}
+{"text": "i want to start typing a new note", "intent": "type_text"}
+{"text": "last track", "intent": "previous_track"}
+{"text": "can you turn the volume down", "intent": "volume_down"}
+{"text": "continue playing", "intent": "media_play_pause"}
+{"text": "enter the text i will be late today", "intent": "type_text"}
+{"text": "lower the volume to 40%", "intent": "volume_down"}
+{"text": "can you google the weather tomorrow", "intent": "web_search"}
+{"text": "take a screen shot", "intent": "screenshot"}
+{"text": "i need to open desktop", "intent": "open_folder"}
+{"text": "type the quick brown fox", "intent": "type_text"}
+{"text": "can you type buy milk", "intent": "type_text"}
+{"text": "watch linear algebra videos", "intent": "youtube_search"}
+{"text": "play spotify music", "intent": "media_play_pause"}
+{"text": "create a new folder", "intent": "other"}
+{"text": "skip forward", "intent": "next_track"}
+{"text": "can you mute the audio", "intent": "mute"}
+{"text": "shut chatgpt", "intent": "close_app"}
+{"text": "hello", "intent": "other"}
+{"text": "show me a video on movie reviews", "intent": "youtube_search"}
+{"text": "desktop folder", "intent": "open_folder"}
+{"text": "please open huggingface on my google account", "intent": "open_website"}
+{"text": "look up github", "intent": "open_website"}
+{"text": "exit colorsync utility", "intent": "close_app"}
+{"text": "can you open google maps", "intent": "open_website"}
+{"text": "start image capture", "intent": "open_app"}
+{"text": "show desktop", "intent": "open_folder"}
+{"text": "i want to start typing a new document", "intent": "type_text"}
+{"text": "open the google meet website", "intent": "open_website"}
+{"text": "open google and find out the weather in london", "intent": "web_search"}
+{"text": "put volume at 64", "intent": "set_volume"}
+{"text": "play itunes music", "intent": "media_play_pause"}
+{"text": "i need to type some text here", "intent": "type_text"}
+{"text": "how far is the moon", "intent": "other"}
+{"text": "go to the github website", "intent": "open_website"}
+{"text": "volume 50 percent", "intent": "set_volume"}
+{"text": "look up how to tie a tie on youtube", "intent": "youtube_search"}
+{"text": "what does the internet say about the history of rome", "intent": "web_search"}
+{"text": "turn volume up", "intent": "volume_up"}
+{"text": "play a video about space travel", "intent": "youtube_search"}
+{"text": "turn the speaker off", "intent": "mute"}
+{"text": "what's the best way to cook chicken", "intent": "other"}
+{"text": "run antigravity", "intent": "open_app"}
+{"text": "open notes", "intent": "open_app"}
+{"text": "what's the current price of bitcoin", "intent": "web_search"}
+{"text": "previous track", "intent": "previous_track"}
+{"text": "fire up calendar", "intent": "open_app"}
+{"text": "exit freeform", "intent": "close_app"}
+{"text": "take a snap", "intent": "screenshot"}
+{"text": "play", "intent": "media_play_pause"}
+{"text": "youtube movie reviews", "intent": "youtube_search"}
+{"text": "save a screen capture", "intent": "screenshot"}
+{"text": "open text editor", "intent": "open_app"}
+{"text": "write out good morning", "intent": "type_text"}
+{"text": "could you mute the mic", "intent": "mute"}
+{"text": "buy a new phone", "intent": "other"}
+{"text": "type out i will be late today", "intent": "type_text"}
+{"text": "mute everything", "intent": "mute"}
+{"text": "open chrome", "intent": "open_app"}
+{"text": "take me to the applications folder", "intent": "open_folder"}
+{"text": "can you help me write a sentence", "intent": "type_text"}
+{"text": "make me a sandwich", "intent": "other"}
+{"text": "please quit system settings", "intent": "close_app"}
+{"text": "open the documents folder please", "intent": "open_folder"}
+{"text": "find videos about the weather tomorrow", "intent": "youtube_search"}
+{"text": "find videos about how to cook biryani", "intent": "youtube_search"}
+{"text": "volume to 50%", "intent": "set_volume"}
+{"text": "change volume to 87", "intent": "set_volume"}
+{"text": "type the words on my way", "intent": "type_text"}
+{"text": "show me the downloads folder", "intent": "open_folder"}
+{"text": "pause it", "intent": "media_play_pause"}
+{"text": "search about world news", "intent": "web_search"}
+{"text": "play the music on spotify", "intent": "media_play_pause"}
+{"text": "open maps", "intent": "open_app"}
+{"text": "can you open settings", "intent": "open_app"}
+{"text": "screenshot with cursor", "intent": "screenshot"}
+{"text": "shut safari", "intent": "close_app"}
+{"text": "start claude", "intent": "open_app"}
+{"text": "google best laptops 2026", "intent": "web_search"}
+{"text": "make the noise quieter", "intent": "volume_down"}
+{"text": "run passwords", "intent": "open_app"}
+{"text": "force quit siri", "intent": "close_app"}
+{"text": "type the words good morning", "intent": "type_text"}
+{"text": "set the sound to 93", "intent": "set_volume"}
+{"text": "show me the downloads", "intent": "open_folder"}
+{"text": "play my tunes", "intent": "media_play_pause"}
+{"text": "change volume to 99", "intent": "set_volume"}
+{"text": "play the video on baking bread", "intent": "youtube_search"}
+{"text": "can you help me with math", "intent": "other"}
+{"text": "set volume to 80", "intent": "set_volume"}
+{"text": "load wikipedia", "intent": "open_website"}
+{"text": "close the google chrome app", "intent": "close_app"}
+{"text": "search web for 'how to bake a cake'", "intent": "web_search"}
+{"text": "enter the text thanks a lot", "intent": "type_text"}
+{"text": "volume 68", "intent": "set_volume"}
+{"text": "go to my documents", "intent": "open_folder"}
+{"text": "visit the gmail website", "intent": "open_website"}
+{"text": "show my documents", "intent": "open_folder"}
+{"text": "turn the sound off, i need quiet", "intent": "mute"}
+{"text": "open the movies folder", "intent": "open_folder"}
+{"text": "close the siri ai app", "intent": "close_app"}
+{"text": "play the new taylor swift song on youtube", "intent": "youtube_search"}
+{"text": "volume to 22 percent", "intent": "set_volume"}
+{"text": "get rid of realvnc connect viewer window", "intent": "close_app"}
+{"text": "volume 78", "intent": "set_volume"}
+{"text": "i don't like this song skip", "intent": "next_track"}
+{"text": "navigate to github", "intent": "open_website"}
+{"text": "go to my downloads", "intent": "open_folder"}
+{"text": "send a whatsapp to riya", "intent": "other"}
+{"text": "can you open whatsapp", "intent": "open_app"}
+{"text": "change volume to 29", "intent": "set_volume"}
+{"text": "play music right now", "intent": "media_play_pause"}
+{"text": "volume to 36 percent", "intent": "set_volume"}
+{"text": "watch the weather tomorrow videos", "intent": "youtube_search"}
+{"text": "set the volume to 50%", "intent": "set_volume"}
+{"text": "type the github website in the browser", "intent": "open_website"}
+{"text": "show me the home folder", "intent": "open_folder"}
+{"text": "put volume at 16", "intent": "set_volume"}
+{"text": "launch chrome and search football highlights", "intent": "web_search"}
+{"text": "google football highlights", "intent": "web_search"}
+{"text": "open google docs on safari", "intent": "open_website"}
+{"text": "search about best laptops 2026", "intent": "web_search"}
+{"text": "pull up google sheets", "intent": "open_website"}
+{"text": "skip ahead to next song", "intent": "next_track"}
+{"text": "type the words call me back", "intent": "type_text"}
+{"text": "open google maps on safari", "intent": "open_website"}
+{"text": "what's the most popular song right now", "intent": "other"}
+{"text": "can you decrease the volume", "intent": "volume_down"}
+{"text": "open medium.com", "intent": "open_website"}
+{"text": "please open hacker news", "intent": "open_website"}
+{"text": "check out gmail.com", "intent": "open_website"}
+{"text": "quit the window", "intent": "close_app"}
+{"text": "type out call me back", "intent": "type_text"}
+{"text": "play coldplay on youtube", "intent": "youtube_search"}
+{"text": "volume to 50", "intent": "set_volume"}
+{"text": "navigate to the github website", "intent": "open_website"}
+{"text": "type out happy birthday", "intent": "type_text"}
+{"text": "turn on the lights", "intent": "other"}
+{"text": "google neural networks near me", "intent": "web_search"}
+{"text": "lock my mac screen now", "intent": "lock_screen"}
+{"text": "i want to mute my audio", "intent": "mute"}
+{"text": "get to gmail.com", "intent": "open_website"}
+{"text": "play a video about healthy eating", "intent": "youtube_search"}
+{"text": "get a screenshot", "intent": "screenshot"}
+{"text": "skip forward to next", "intent": "next_track"}
+{"text": "could you type this out for me", "intent": "type_text"}
+{"text": "lock my screen right away", "intent": "lock_screen"}
+{"text": "open the google gemini website", "intent": "open_website"}
+{"text": "play it", "intent": "media_play_pause"}
+{"text": "quit the tab", "intent": "close_app"}
+{"text": "enter the text happy birthday", "intent": "type_text"}
+{"text": "volume 74", "intent": "set_volume"}
+{"text": "can you make the sound quieter", "intent": "volume_down"}
+{"text": "visit reddit", "intent": "open_website"}
+{"text": "type the words lorem ipsum", "intent": "type_text"}
+{"text": "search google for cheap flights to goa", "intent": "web_search"}
+{"text": "play relaxing piano music on youtube", "intent": "youtube_search"}
+{"text": "search youtube for new york city skyline footage", "intent": "youtube_search"}
+{"text": "please type my name is vikram", "intent": "type_text"}
+{"text": "google lofi beats near me", "intent": "web_search"}
+{"text": "close the program", "intent": "close_app"}
+{"text": "copy that", "intent": "other"}
+{"text": "kill notes", "intent": "close_app"}
+{"text": "copy screenshot to clipboard", "intent": "screenshot"}
+{"text": "do a web search for quantum computing", "intent": "web_search"}
+{"text": "type the words i will be late today", "intent": "type_text"}
+{"text": "open the github website", "intent": "open_website"}
+{"text": "play old hindi songs on youtube", "intent": "youtube_search"}
+{"text": "can you type hello world", "intent": "type_text"}
+{"text": "last one", "intent": "previous_track"}
+{"text": "pause playback", "intent": "media_play_pause"}
+{"text": "open quicktime player", "intent": "open_app"}
+{"text": "continue the song", "intent": "media_play_pause"}
+{"text": "play a video about world news on safari", "intent": "youtube_search"}
+{"text": "lock the display", "intent": "lock_screen"}
+{"text": "launch safari", "intent": "open_app"}
+{"text": "launch chrome and look up docker basics on youtube", "intent": "youtube_search"}
+{"text": "what's 2 plus 2", "intent": "other"}
+{"text": "take me to the downloads folder", "intent": "open_folder"}
+{"text": "play the most recent video from youtube", "intent": "youtube_search"}
+{"text": "turn up the speaker volume", "intent": "volume_up"}
+{"text": "back to the previous one", "intent": "previous_track"}
+{"text": "pull up gmail", "intent": "open_website"}
+{"text": "open the gmail website", "intent": "open_website"}
+{"text": "go to netflix", "intent": "open_website"}
+{"text": "stop this app", "intent": "close_app"}
+{"text": "exit textedit", "intent": "close_app"}
+{"text": "google mars rover", "intent": "web_search"}
+{"text": "find information about movie reviews", "intent": "web_search"}
+{"text": "open whatsapp web", "intent": "open_website"}
+{"text": "write out the quick brown fox", "intent": "type_text"}
+{"text": "please quit zap", "intent": "close_app"}
+{"text": "search about the latest iphone", "intent": "web_search"}
+{"text": "play the music in itunes", "intent": "media_play_pause"}
+{"text": "visit coursera", "intent": "open_website"}
+{"text": "close the tor browser app", "intent": "close_app"}
+{"text": "open the stackoverflow site", "intent": "open_website"}
+{"text": "exit the program", "intent": "close_app"}
+{"text": "find out the most popular song right now", "intent": "web_search"}
+{"text": "close the window", "intent": "close_app"}
+{"text": "show me the desktop", "intent": "open_folder"}
+{"text": "google neural networks", "intent": "web_search"}
+{"text": "i need to type a quick text", "intent": "type_text"}
+{"text": "go to my pictures", "intent": "open_folder"}
+{"text": "hey mac, play music", "intent": "media_play_pause"}
+{"text": "volume 8", "intent": "set_volume"}
+{"text": "make it quieter, please", "intent": "volume_down"}
+{"text": "lock my computer", "intent": "lock_screen"}
+{"text": "can you mute the system sound", "intent": "mute"}
+{"text": "please type hello world", "intent": "type_text"}
+{"text": "open the pod bay doors", "intent": "other"}
+{"text": "turn off dark mode", "intent": "other"}
+{"text": "turn up the volume", "intent": "volume_up"}
+{"text": "set the sound to 39", "intent": "set_volume"}
+{"text": "search google for react hooks tutorial", "intent": "web_search"}
+{"text": "sound up", "intent": "volume_up"}
+{"text": "up the volume", "intent": "volume_up"}
+{"text": "i want to write a text on the keyboard", "intent": "type_text"}
+{"text": "silence the sound now", "intent": "mute"}
+{"text": "open discord", "intent": "open_app"}
+{"text": "lock the screen now please", "intent": "lock_screen"}
+{"text": "write out dear sir", "intent": "type_text"}
+{"text": "launch chrome and google neural networks", "intent": "web_search"}
+{"text": "go to desktop", "intent": "open_folder"}
+{"text": "order food", "intent": "other"}
+{"text": "type the words dear sir", "intent": "type_text"}
+{"text": "tips", "intent": "open_app"}
+{"text": "search for quantum computing", "intent": "web_search"}
+{"text": "screenshot the active window", "intent": "screenshot"}
+{"text": "fire up mysqlworkbench", "intent": "open_app"}
+{"text": "navigate to huggingface", "intent": "open_website"}
+{"text": "write the quick brown fox", "intent": "type_text"}
+{"text": "find a linear algebra tutorial on youtube", "intent": "youtube_search"}
+{"text": "what's the weather forecast for tomorrow", "intent": "other"}
+{"text": "show me the weather forecast for tomorrow", "intent": "web_search"}
+{"text": "can you open reminders", "intent": "open_app"}
+{"text": "load zoom", "intent": "open_website"}
+{"text": "search google for taylor swift songs", "intent": "web_search"}
+{"text": "write down see you tomorrow", "intent": "type_text"}
+{"text": "show me the pictures folder", "intent": "open_folder"}
+{"text": "shut font book", "intent": "close_app"}
+{"text": "play the music now", "intent": "media_play_pause"}
+{"text": "can you type see you tomorrow", "intent": "type_text"}
+{"text": "lock my screen quickly", "intent": "lock_screen"}
+{"text": "type gmail in the browser", "intent": "open_website"}
+{"text": "play football highlights on youtube", "intent": "youtube_search"}
+{"text": "get rid of grapher window", "intent": "close_app"}
+{"text": "make volume 50 percent", "intent": "set_volume"}
+{"text": "can you open iphone mirroring", "intent": "open_app"}
+{"text": "what's the current temperature", "intent": "other"}
+{"text": "start maps", "intent": "open_app"}
+{"text": "look up github.com", "intent": "open_website"}
+{"text": "let me type a few lines of text", "intent": "type_text"}
+{"text": "search youtube for restaurants near me", "intent": "youtube_search"}
+{"text": "play yoga for beginners on youtube", "intent": "youtube_search"}
+{"text": "bring up realvnc connect viewer", "intent": "open_app"}
+{"text": "show my desktop", "intent": "open_folder"}
+{"text": "take screenshot without cursor", "intent": "screenshot"}
+{"text": "find information about how to cook biryani", "intent": "web_search"}
+{"text": "get to the gmail website", "intent": "open_website"}
+{"text": "kill zoom", "intent": "close_app"}
+{"text": "lock screen now", "intent": "lock_screen"}
+{"text": "skip to next song", "intent": "next_track"}
+{"text": "open my desktop folder", "intent": "open_folder"}
+{"text": "enter the text hello world", "intent": "type_text"}
+{"text": "make the sound bigger", "intent": "volume_up"}
+{"text": "find information about funny dog videos", "intent": "web_search"}
+{"text": "fire up safari", "intent": "open_app"}
+{"text": "get rid of font book window", "intent": "close_app"}
+{"text": "quit image capture", "intent": "close_app"}
+{"text": "please type ok sounds good", "intent": "type_text"}
+{"text": "go to the next track", "intent": "next_track"}
+{"text": "turn on bluetooth", "intent": "other"}
+{"text": "mute it", "intent": "mute"}
+{"text": "open maps app", "intent": "open_app"}
+{"text": "find information about the history of rome", "intent": "web_search"}
+{"text": "open my medium.com in my google account", "intent": "open_website"}
+{"text": "get rid of photos window", "intent": "close_app"}
+{"text": "open the documents folder", "intent": "open_folder"}
+{"text": "could you help me type this phrase", "intent": "type_text"}
+{"text": "how tall is mount everest", "intent": "other"}
+{"text": "calendar", "intent": "open_app"}
+{"text": "search google for 'best deals on electronics'", "intent": "web_search"}
+{"text": "can you open downloads", "intent": "open_folder"}
+{"text": "enter the text see you tomorrow", "intent": "type_text"}
+{"text": "type out thanks a lot", "intent": "type_text"}
+{"text": "visit the github website", "intent": "open_website"}
+{"text": "show me a video on how to cook biryani", "intent": "youtube_search"}
+{"text": "go to my desktop", "intent": "open_folder"}
+{"text": "open mail", "intent": "open_app"}
+{"text": "open keychain access", "intent": "open_app"}
+{"text": "you are awesome", "intent": "other"}
+{"text": "please mute the computer sound", "intent": "mute"}
+{"text": "what's the latest update on the weather", "intent": "other"}
+{"text": "lower the volume a little more", "intent": "volume_down"}
+{"text": "turn the volume down to 50%", "intent": "volume_down"}
+{"text": "make the volume quieter by 1.5db", "intent": "volume_down"}
+{"text": "empty the trash", "intent": "other"}
+{"text": "can you look up the latest news on climate change", "intent": "web_search"}
+{"text": "turn down the volume to silent", "intent": "mute"}
+{"text": "google cheap flights to goa", "intent": "web_search"}
+{"text": "volume at 58", "intent": "set_volume"}
+{"text": "youtube search how to tie a tie", "intent": "youtube_search"}
+{"text": "play the video about solar eclipses", "intent": "youtube_search"}
+{"text": "open telegram web", "intent": "open_website"}
+{"text": "search for chess openings in safari", "intent": "web_search"}
+{"text": "go to downloads", "intent": "open_folder"}
+{"text": "open figma in my google account", "intent": "open_website"}
+{"text": "find information about how to tie a tie", "intent": "web_search"}
+{"text": "show my home", "intent": "open_folder"}
+{"text": "open the huggingface site", "intent": "open_website"}
+{"text": "shortcuts", "intent": "open_app"}
+{"text": "write down buy milk", "intent": "type_text"}
+{"text": "i need to write some text quickly", "intent": "type_text"}
+{"text": "turn the sound down a bit more", "intent": "volume_down"}
+{"text": "can you tell me what's the weather like today", "intent": "other"}
+{"text": "write out i will be late today", "intent": "type_text"}
+{"text": "explain neural networks", "intent": "other"}
+{"text": "start the music again", "intent": "media_play_pause"}
+{"text": "look up yoga for beginners", "intent": "web_search"}
+{"text": "enable night mode", "intent": "other"}
+{"text": "shut podcasts", "intent": "close_app"}
+{"text": "sound down", "intent": "volume_down"}
+{"text": "is it going to rain", "intent": "other"}
+{"text": "play the next song", "intent": "next_track"}
+{"text": "enter the text on my way", "intent": "type_text"}
+{"text": "call dad", "intent": "other"}
+{"text": "write out lorem ipsum", "intent": "type_text"}
+{"text": "type gmail.com in the browser", "intent": "open_website"}
+{"text": "find information about cheap flights to goa", "intent": "web_search"}
+{"text": "let me type a short message", "intent": "type_text"}
+{"text": "resume music", "intent": "media_play_pause"}
+{"text": "open the magnifier application", "intent": "open_app"}
+{"text": "restart my mac", "intent": "other"}
+{"text": "take me to the home folder", "intent": "open_folder"}
+{"text": "close image playground", "intent": "close_app"}
+{"text": "start xcode", "intent": "open_app"}
+{"text": "what does the internet say about machine learning", "intent": "web_search"}
+{"text": "play the last track", "intent": "previous_track"}
+{"text": "search about yoga for beginners", "intent": "web_search"}
+{"text": "play my spotify music", "intent": "media_play_pause"}
+{"text": "go to my movies", "intent": "open_folder"}
+{"text": "force quit airport utility", "intent": "close_app"}
+{"text": "open the downloads folder", "intent": "open_folder"}
+{"text": "change the song", "intent": "next_track"}
+{"text": "lock my mac right now", "intent": "lock_screen"}
+{"text": "what does the internet say about how to cook biryani", "intent": "web_search"}
+{"text": "watch docker basics videos", "intent": "youtube_search"}
+{"text": "open pictures in finder", "intent": "open_folder"}
+{"text": "exit music", "intent": "close_app"}
+{"text": "google quantum computing", "intent": "web_search"}
+{"text": "kill music", "intent": "close_app"}
+{"text": "okay, play music now", "intent": "media_play_pause"}
+{"text": "put volume at 54", "intent": "set_volume"}
+{"text": "can you open google meet", "intent": "open_website"}
+{"text": "volume 86", "intent": "set_volume"}
+{"text": "open desktop folder", "intent": "open_folder"}
+{"text": "find out the top 10 movies on netflix right now", "intent": "web_search"}
+{"text": "start spotify", "intent": "open_app"}
+{"text": "open applications in finder", "intent": "open_folder"}
+{"text": "navigate to stackoverflow.com", "intent": "open_website"}
+{"text": "get rid of notes window", "intent": "close_app"}
+{"text": "launch books", "intent": "open_app"}
+{"text": "search the web for best laptops 2026", "intent": "web_search"}
+{"text": "open home in finder", "intent": "open_folder"}
+{"text": "exit the app", "intent": "close_app"}
+{"text": "play movie reviews on youtube", "intent": "youtube_search"}
+{"text": "lock the mac screen", "intent": "lock_screen"}
+{"text": "play music in spotify", "intent": "media_play_pause"}
+{"text": "go to my home", "intent": "open_folder"}
+{"text": "lower the volume so it's not so loud", "intent": "volume_down"}
+{"text": "show me videos of cats jumping", "intent": "youtube_search"}
+{"text": "lower the volume to 50", "intent": "volume_down"}
+{"text": "increase volume", "intent": "volume_up"}
+{"text": "play taylor swift songs on youtube", "intent": "youtube_search"}
+{"text": "search youtube for movie reviews", "intent": "youtube_search"}
+{"text": "launch textedit", "intent": "open_app"}
+{"text": "search the web for taylor swift songs", "intent": "web_search"}
+{"text": "open chrome and search yoga for beginners on youtube", "intent": "youtube_search"}
+{"text": "daily task log", "intent": "open_app"}
+{"text": "bring up voiceover utility", "intent": "open_app"}
+{"text": "connect to wifi", "intent": "other"}
+{"text": "volume at 11", "intent": "set_volume"}
+{"text": "visit flipkart", "intent": "open_website"}
+{"text": "can you quiet the speakers", "intent": "mute"}
+{"text": "can you stop the volume", "intent": "mute"}
+{"text": "can you type call me back", "intent": "type_text"}
+{"text": "watch quantum computing videos", "intent": "youtube_search"}
+{"text": "i want to type a short note", "intent": "type_text"}
+{"text": "please type call me back", "intent": "type_text"}
+{"text": "launch keychain access", "intent": "open_app"}
+{"text": "can you type see you soon", "intent": "type_text"}
+{"text": "i want to watch quantum computing", "intent": "youtube_search"}
+{"text": "launch chrome and search the history of rome on youtube", "intent": "youtube_search"}
+{"text": "how much battery do i have", "intent": "other"}
+{"text": "find information about world news", "intent": "web_search"}
+{"text": "what does the internet say about quantum computing", "intent": "web_search"}
+{"text": "type out meeting at five", "intent": "type_text"}
+{"text": "start finder", "intent": "open_app"}
+{"text": "next track", "intent": "next_track"}
+{"text": "can you reduce the volume", "intent": "volume_down"}
+{"text": "skip to next track", "intent": "next_track"}
+{"text": "skip ahead", "intent": "next_track"}
+{"text": "google docker basics", "intent": "web_search"}
+{"text": "volume up to 50 percent", "intent": "set_volume"}
+{"text": "close the system settings app", "intent": "close_app"}
+{"text": "find information about linear algebra", "intent": "web_search"}
+{"text": "set the sound to 56", "intent": "set_volume"}
+{"text": "launch photos", "intent": "open_app"}
+{"text": "what's the date", "intent": "other"}
+{"text": "volume up to 50", "intent": "set_volume"}
+{"text": "silence", "intent": "mute"}
+{"text": "start whatsapp", "intent": "open_app"}
+{"text": "crank it up", "intent": "volume_up"}
+{"text": "force quit grapher", "intent": "close_app"}
+{"text": "please quit calendar", "intent": "close_app"}
+{"text": "book a cab", "intent": "other"}
+{"text": "kill chrome", "intent": "close_app"}
+{"text": "close this app", "intent": "close_app"}
+{"text": "can you bring the volume down", "intent": "volume_down"}
+{"text": "play a video about restaurants near me", "intent": "youtube_search"}
+{"text": "search youtube for react hooks tutorial", "intent": "youtube_search"}
+{"text": "open macky app", "intent": "open_app"}
+{"text": "show me my contacts", "intent": "other"}
+{"text": "navigate to reddit", "intent": "open_website"}
+{"text": "open the hotstar site", "intent": "open_website"}
+{"text": "open numbers", "intent": "open_app"}
+{"text": "mission control", "intent": "open_app"}
+{"text": "search youtube for mars rover", "intent": "youtube_search"}
+{"text": "make the volume 22", "intent": "set_volume"}
+{"text": "open the wikipedia.org site", "intent": "open_website"}
+{"text": "please mute the sound output", "intent": "mute"}
+{"text": "can you give me the weather for next week", "intent": "web_search"}
+{"text": "load x", "intent": "open_website"}
+{"text": "open github", "intent": "open_website"}
+{"text": "save a picture of my screen", "intent": "screenshot"}
+{"text": "put volume at 27", "intent": "set_volume"}
+{"text": "go back a song", "intent": "previous_track"}
+{"text": "capture screen with cursor", "intent": "screenshot"}
+{"text": "schedule a meeting tomorrow", "intent": "other"}
+{"text": "kill the audio", "intent": "mute"}
+{"text": "turn off the audio output", "intent": "mute"}
+{"text": "change volume to 98", "intent": "set_volume"}
+{"text": "increase the volume a bit", "intent": "volume_up"}
+{"text": "play best laptops 2026 on youtube", "intent": "youtube_search"}
+{"text": "look up docker basics on youtube", "intent": "youtube_search"}
+{"text": "write out hello world", "intent": "type_text"}
+{"text": "open the reddit site", "intent": "open_website"}
+{"text": "get rid of console window", "intent": "close_app"}
+{"text": "change volume to 60", "intent": "set_volume"}
+{"text": "kill terminal", "intent": "close_app"}
+{"text": "mute audio", "intent": "mute"}
+{"text": "start text editor", "intent": "open_app"}
+{"text": "open the grok site", "intent": "open_website"}
+{"text": "can you open outlook on my google account", "intent": "open_website"}
+{"text": "write down the quick brown fox", "intent": "type_text"}
+{"text": "change volume to 51", "intent": "set_volume"}
+{"text": "launch voiceover utility", "intent": "open_app"}
+{"text": "reply to that email", "intent": "other"}
+{"text": "close the browser", "intent": "close_app"}
+{"text": "force quit maps", "intent": "close_app"}
+{"text": "please silence my computer", "intent": "mute"}
+{"text": "play my music library", "intent": "media_play_pause"}
+{"text": "close tips", "intent": "close_app"}
+{"text": "play lofi beats on youtube", "intent": "youtube_search"}
+{"text": "open the applications folder", "intent": "open_folder"}
+{"text": "open messages app", "intent": "open_app"}
+{"text": "can you open the calculator", "intent": "open_app"}
+{"text": "screenshot this", "intent": "screenshot"}
+{"text": "close the photos app", "intent": "close_app"}
+{"text": "force quit contacts", "intent": "close_app"}
+{"text": "launch notes", "intent": "open_app"}
+{"text": "open slack in my google account", "intent": "open_website"}
+{"text": "volume 79", "intent": "set_volume"}
+{"text": "look up the history of rome on youtube", "intent": "youtube_search"}
+{"text": "what's the name of the president", "intent": "other"}
+{"text": "lock the screen fast", "intent": "lock_screen"}
+{"text": "set the sound to 76", "intent": "set_volume"}
+{"text": "change volume to 34", "intent": "set_volume"}
+{"text": "lock the mac now", "intent": "lock_screen"}
+{"text": "launch pages", "intent": "open_app"}
+{"text": "a bit louder", "intent": "volume_up"}
+{"text": "can you open apps", "intent": "open_app"}
+{"text": "stop the app", "intent": "close_app"}
+{"text": "write me a poem about rain", "intent": "other"}
+{"text": "open google sheets", "intent": "open_website"}
+{"text": "make the sound louder", "intent": "volume_up"}
+{"text": "good morning", "intent": "other"}
+{"text": "start mail", "intent": "open_app"}
+{"text": "i want to watch funny dog videos", "intent": "youtube_search"}
+{"text": "open my google keep on my google account", "intent": "open_website"}
+{"text": "resume the music", "intent": "media_play_pause"}
+{"text": "search about machine learning", "intent": "web_search"}
+{"text": "lock my mac screen", "intent": "lock_screen"}
+{"text": "open gmail.com", "intent": "open_website"}
+{"text": "lock the computer screen", "intent": "lock_screen"}
+{"text": "check out github", "intent": "open_website"}
+{"text": "i want to see downloads", "intent": "open_folder"}
+{"text": "set a timer for 10 minutes", "intent": "other"}
+{"text": "search cheap flights to goa", "intent": "web_search"}
+{"text": "go back one track", "intent": "previous_track"}
+{"text": "make the volume quieter, please", "intent": "volume_down"}
+{"text": "type the words see you tomorrow", "intent": "type_text"}
+{"text": "exit bluetooth file exchange", "intent": "close_app"}
+{"text": "write down good morning", "intent": "type_text"}
+{"text": "find videos about restaurants near me", "intent": "youtube_search"}
+{"text": "turn off the sound", "intent": "mute"}
+{"text": "i need to open documents", "intent": "open_folder"}
+{"text": "get to github", "intent": "open_website"}
+{"text": "play a video about funny dog videos on safari", "intent": "youtube_search"}
+{"text": "stop music", "intent": "media_play_pause"}
+{"text": "get to github.com", "intent": "open_website"}
+{"text": "please type meeting at five", "intent": "type_text"}
+{"text": "exit pages", "intent": "close_app"}
+{"text": "google world news", "intent": "web_search"}
+{"text": "google how to tie a tie", "intent": "web_search"}
+{"text": "shut phone", "intent": "close_app"}
+{"text": "open stackoverflow", "intent": "open_website"}
+{"text": "lock my screen right now", "intent": "lock_screen"}
+{"text": "show me desktop", "intent": "open_folder"}
+{"text": "can you type the quick brown fox", "intent": "type_text"}
+{"text": "check out gmail", "intent": "open_website"}
+{"text": "search youtube for best laptops 2026", "intent": "youtube_search"}
+{"text": "rename this file", "intent": "other"}
+{"text": "find a machine learning tutorial on youtube", "intent": "youtube_search"}
+{"text": "i need to silence my mac", "intent": "mute"}
+{"text": "screenshot my window", "intent": "screenshot"}
+{"text": "set volume to 62", "intent": "set_volume"}
+{"text": "watch python decorators videos", "intent": "youtube_search"}
+{"text": "start numbers", "intent": "open_app"}
+{"text": "lock the screen quickly", "intent": "lock_screen"}
+{"text": "play the latest iphone on youtube", "intent": "youtube_search"}
+{"text": "set the volume to 50", "intent": "set_volume"}
+{"text": "lock screen", "intent": "lock_screen"}
+{"text": "type github in the browser", "intent": "open_website"}
+{"text": "launch terminal", "intent": "open_app"}
+{"text": "hey google, search for the best hiking trails near me", "intent": "web_search"}
+{"text": "open downloads now", "intent": "open_folder"}
+{"text": "start keychain access", "intent": "open_app"}
+{"text": "close the whatsapp app", "intent": "close_app"}
+{"text": "turn the speaker volume up", "intent": "volume_up"}
+{"text": "can you play the music", "intent": "media_play_pause"}
+{"text": "mute the sound so i can focus", "intent": "mute"}
+{"text": "set an alarm for 7", "intent": "other"}
+{"text": "turn the sound off, i'm busy", "intent": "mute"}
+{"text": "play previous track", "intent": "previous_track"}
+{"text": "next", "intent": "next_track"}
+{"text": "quit ublock origin lite", "intent": "close_app"}
+{"text": "send a message to mom", "intent": "other"}
+{"text": "open home", "intent": "open_folder"}
+{"text": "close it", "intent": "close_app"}
+{"text": "play a video about world news", "intent": "youtube_search"}
+{"text": "put volume at 52", "intent": "set_volume"}
+{"text": "what does the internet say about mars rover", "intent": "web_search"}
+{"text": "documents folder please", "intent": "open_folder"}
+{"text": "set volume to 57", "intent": "set_volume"}
+{"text": "put volume at 90", "intent": "set_volume"}
+{"text": "open the activity monitor application", "intent": "open_app"}
+{"text": "capture the current window", "intent": "screenshot"}
+{"text": "write thanks a lot", "intent": "type_text"}
+{"text": "i need to silence this audio", "intent": "mute"}
+{"text": "start safari", "intent": "open_app"}
+{"text": "youtube search linear algebra", "intent": "youtube_search"}
+{"text": "do a web search for cheap flights to goa", "intent": "web_search"}
+{"text": "force quit migration assistant", "intent": "close_app"}
+{"text": "capture screen shot", "intent": "screenshot"}
+{"text": "type buy milk", "intent": "type_text"}
+{"text": "pull up slack", "intent": "open_website"}
+{"text": "start chrome", "intent": "open_app"}
+{"text": "mute the speaker please", "intent": "mute"}
+{"text": "open google slides for me", "intent": "open_website"}
+{"text": "back to the last track", "intent": "previous_track"}
+{"text": "set the sound to 3", "intent": "set_volume"}
+{"text": "open my arxiv.org please", "intent": "open_website"}
+{"text": "turn volume up a bit", "intent": "volume_up"}
+{"text": "volume at 22", "intent": "set_volume"}
+{"text": "please type lorem ipsum", "intent": "type_text"}
+{"text": "make the volume 50", "intent": "set_volume"}
+{"text": "i want desktop", "intent": "open_folder"}
+{"text": "play a video about mars rover using chrome", "intent": "youtube_search"}
+{"text": "make the volume 29", "intent": "set_volume"}
+{"text": "what's the meaning of life", "intent": "web_search"}
+{"text": "volume to 41 percent", "intent": "set_volume"}
+{"text": "read the containers what are there", "intent": "other"}
+{"text": "close the numbers app", "intent": "close_app"}
+{"text": "show me a video on the history of rome", "intent": "youtube_search"}
+{"text": "make it 50", "intent": "set_volume"}
+{"text": "make the volume quieter", "intent": "volume_down"}
+{"text": "go to gmail.com", "intent": "open_website"}
+{"text": "youtube search neural networks", "intent": "youtube_search"}
+{"text": "make a presentation", "intent": "other"}
+{"text": "pull up youtube", "intent": "open_website"}
+{"text": "please open cloudflare warp", "intent": "open_app"}
+{"text": "capture screen now", "intent": "screenshot"}
+{"text": "go to github.com in browser", "intent": "open_website"}
+{"text": "enter the text lorem ipsum", "intent": "type_text"}
+{"text": "let me write a quick message on the keyboard", "intent": "type_text"}
+{"text": "make the volume 28", "intent": "set_volume"}
+{"text": "send me to github", "intent": "open_website"}
+{"text": "can you help me type a short text", "intent": "type_text"}
+{"text": "exit the application", "intent": "close_app"}
+{"text": "show downloads", "intent": "open_folder"}
+{"text": "take a picture of the screen", "intent": "screenshot"}
+{"text": "open the downloads folder please", "intent": "open_folder"}
+{"text": "write down call me back", "intent": "type_text"}
+{"text": "what's the current stock price of apple", "intent": "web_search"}
+{"text": "do a web search for the weather tomorrow", "intent": "web_search"}
+{"text": "pause music", "intent": "media_play_pause"}
+{"text": "go to the gmail website", "intent": "open_website"}
+{"text": "open copilot", "intent": "open_website"}
+{"text": "start terminal", "intent": "open_app"}
+{"text": "how much is 25 times 4", "intent": "other"}
+{"text": "navigate to github.com", "intent": "open_website"}
+{"text": "close photos", "intent": "close_app"}
+{"text": "open my home folder", "intent": "open_folder"}
+{"text": "lock up the laptop", "intent": "lock_screen"}
+{"text": "please quit daily task log", "intent": "close_app"}
+{"text": "stop the song", "intent": "media_play_pause"}
+{"text": "search web for 'how to fix a leaky faucet'", "intent": "web_search"}
+{"text": "play arijit singh songs on youtube", "intent": "youtube_search"}
+{"text": "open music app", "intent": "open_app"}
+{"text": "please open leetcode", "intent": "open_website"}
+{"text": "find videos about best laptops 2026", "intent": "youtube_search"}
+{"text": "turn volume to 50", "intent": "set_volume"}
+{"text": "change volume to 33", "intent": "set_volume"}
+{"text": "play the previous track", "intent": "previous_track"}
+{"text": "make the volume higher", "intent": "volume_up"}
+{"text": "look up the github website", "intent": "open_website"}
+{"text": "take a screenshot of this window", "intent": "screenshot"}
+{"text": "take a screenshot of my screen", "intent": "screenshot"}
+{"text": "type the gmail website in the browser", "intent": "open_website"}
+{"text": "search google for linear algebra", "intent": "web_search"}
+{"text": "look up gmail", "intent": "open_website"}
+{"text": "make the volume 15", "intent": "set_volume"}
+{"text": "secure my mac", "intent": "lock_screen"}
+{"text": "close the mysqlworkbench app", "intent": "close_app"}
+{"text": "write meeting at five", "intent": "type_text"}
+{"text": "enter the text the quick brown fox", "intent": "type_text"}
+{"text": "show me how to make pizza from scratch", "intent": "youtube_search"}
+{"text": "set the sound to 96", "intent": "set_volume"}
+{"text": "search about chess openings", "intent": "web_search"}
+{"text": "open the home folder", "intent": "open_folder"}
+{"text": "volume 18", "intent": "set_volume"}
+{"text": "please type happy birthday", "intent": "type_text"}
+{"text": "make the speaker louder", "intent": "volume_up"}
+{"text": "skip next track", "intent": "next_track"}
+{"text": "automator", "intent": "open_app"}
+{"text": "next track in queue", "intent": "next_track"}
+{"text": "documents please", "intent": "open_folder"}
+{"text": "volume 87", "intent": "set_volume"}
+{"text": "write down see you soon", "intent": "type_text"}
+{"text": "youtube search the weather tomorrow", "intent": "youtube_search"}
+{"text": "what does the internet say about linear algebra", "intent": "web_search"}
+{"text": "navigate to youtube", "intent": "open_website"}
+{"text": "volume down a bit, thanks", "intent": "volume_down"}
+{"text": "make the audio quieter", "intent": "volume_down"}
+{"text": "play a video about gradient descent", "intent": "youtube_search"}
+{"text": "open the google translate site", "intent": "open_website"}
+{"text": "fire up postman", "intent": "open_app"}
+{"text": "quit photos", "intent": "close_app"}
+{"text": "launch spotify", "intent": "open_app"}
+{"text": "hey mac, i want to type something", "intent": "type_text"}
+{"text": "search the web for how to cook biryani", "intent": "web_search"}
+{"text": "quit the program", "intent": "close_app"}
+{"text": "stop listening", "intent": "other"}
+{"text": "screenshot the whole screen", "intent": "screenshot"}
+{"text": "resume playback", "intent": "media_play_pause"}
+{"text": "open the twitch website", "intent": "open_website"}
+{"text": "back to previous song", "intent": "previous_track"}
+{"text": "can you help me with writing text", "intent": "type_text"}
+{"text": "desktop folder open", "intent": "open_folder"}
+{"text": "open github.com in browser", "intent": "open_website"}
+{"text": "volume at 8", "intent": "set_volume"}
+{"text": "close the contacts app", "intent": "close_app"}
+{"text": "search the web for python decorators", "intent": "web_search"}
+{"text": "run settings", "intent": "open_app"}
+{"text": "exit apps", "intent": "close_app"}
+{"text": "search the web for quantum computing", "intent": "web_search"}
+{"text": "what does the internet say about neural networks", "intent": "web_search"}
+{"text": "what's the capital of japan", "intent": "other"}
+{"text": "visit google", "intent": "open_website"}
+{"text": "set volume to 19", "intent": "set_volume"}
+{"text": "who is the president of america", "intent": "other"}
+{"text": "open my pictures folder", "intent": "open_folder"}
+{"text": "can you open twitch", "intent": "open_website"}
+{"text": "volume to 99 percent", "intent": "set_volume"}
+{"text": "can you google neural networks", "intent": "web_search"}
+{"text": "reduce the sound", "intent": "volume_down"}
+{"text": "take me to netflix", "intent": "open_website"}
+{"text": "look up restaurants near me", "intent": "web_search"}
+{"text": "save a screenshot", "intent": "screenshot"}
+{"text": "can you lower the volume a bit more", "intent": "volume_down"}
+{"text": "turn the volume up", "intent": "volume_up"}
+{"text": "visit google meet", "intent": "open_website"}
+{"text": "check out github.com", "intent": "open_website"}
+{"text": "kill photos", "intent": "close_app"}
+{"text": "set the volume to 50 percent", "intent": "set_volume"}
+{"text": "screen capture", "intent": "screenshot"}
+{"text": "write down my name is vikram", "intent": "type_text"}
+{"text": "search for cat videos on youtube", "intent": "youtube_search"}
+{"text": "open chrome and go to google calendar", "intent": "open_website"}
+{"text": "open downloads in finder", "intent": "open_folder"}
+{"text": "play music quick", "intent": "media_play_pause"}
+{"text": "run calendar", "intent": "open_app"}
+{"text": "volume 98", "intent": "set_volume"}
+{"text": "launch chess", "intent": "open_app"}
+{"text": "open the kaggle site", "intent": "open_website"}
+{"text": "please open freeform", "intent": "open_app"}
+{"text": "set the sound to 48", "intent": "set_volume"}
+{"text": "search for the best pizza places near me", "intent": "web_search"}
+{"text": "turn the sound down", "intent": "volume_down"}
+{"text": "open google to check the weather in my city", "intent": "web_search"}
+{"text": "save screenshot to clipboard", "intent": "screenshot"}
+{"text": "turn the sound down to 40%", "intent": "volume_down"}
+{"text": "search for videos of cats being lazy", "intent": "youtube_search"}
+{"text": "increase the speaker volume", "intent": "volume_up"}
+{"text": "i want to start writing a text message", "intent": "type_text"}
+{"text": "delete this file", "intent": "other"}
+{"text": "check out the gmail website", "intent": "open_website"}
+{"text": "search for a video about space exploration", "intent": "youtube_search"}
+{"text": "remind me to call john", "intent": "other"}
+{"text": "can you help me with my homework", "intent": "other"}
+{"text": "play music on the go", "intent": "media_play_pause"}
+{"text": "change volume to 2", "intent": "set_volume"}
+{"text": "go to github", "intent": "open_website"}
+{"text": "lock my screen now", "intent": "lock_screen"}
+{"text": "never mind", "intent": "other"}
+{"text": "can you quieten the sound", "intent": "volume_down"}
+{"text": "play music from spotify", "intent": "media_play_pause"}
+{"text": "volume to 75 percent", "intent": "set_volume"}
+{"text": "can you find the answer to 2 plus 2", "intent": "web_search"}
+{"text": "write down i will be late today", "intent": "type_text"}
+{"text": "exit the window", "intent": "close_app"}
+{"text": "start disk utility", "intent": "open_app"}
+{"text": "show me the applications folder", "intent": "open_folder"}
+{"text": "fire up ublock origin lite", "intent": "open_app"}
+{"text": "turn down the sound a bit", "intent": "volume_down"}
+{"text": "open the pictures folder", "intent": "open_folder"}
+{"text": "make the audio quieter now", "intent": "volume_down"}
+{"text": "set volume to 63", "intent": "set_volume"}
+{"text": "show my downloads", "intent": "open_folder"}
+{"text": "can you open preview", "intent": "open_app"}
+{"text": "volume at 23", "intent": "set_volume"}
+{"text": "visit google news in safari", "intent": "open_website"}
+{"text": "open up reminders", "intent": "open_app"}
+{"text": "open documents folder", "intent": "open_folder"}
+{"text": "type github.com in the browser", "intent": "open_website"}
+{"text": "kill safe exam browser", "intent": "close_app"}
+{"text": "go to reddit.com", "intent": "open_website"}
+{"text": "search football highlights on youtube", "intent": "youtube_search"}
+{"text": "can you send a text message", "intent": "other"}
+{"text": "could you help me type this", "intent": "type_text"}
+{"text": "copy screen to clipboard", "intent": "screenshot"}
+{"text": "do a web search for mars rover", "intent": "web_search"}
+{"text": "shut voiceover utility", "intent": "close_app"}
+{"text": "play a video on how to bake cookies", "intent": "youtube_search"}
+{"text": "what is the weather in christian", "intent": "other"}
+{"text": "read my emails", "intent": "other"}
+{"text": "google lofi beats", "intent": "web_search"}
+{"text": "i want to type some words here", "intent": "type_text"}
+{"text": "unpause the music", "intent": "media_play_pause"}
+{"text": "can you google best laptops 2026", "intent": "web_search"}
+{"text": "go to my applications", "intent": "open_folder"}
+{"text": "change volume to 79", "intent": "set_volume"}
+{"text": "show my movies", "intent": "open_folder"}
+{"text": "search for a video of a solar eclipse", "intent": "youtube_search"}
+{"text": "look up quantum computing", "intent": "web_search"}
+{"text": "make volume 50", "intent": "set_volume"}
+{"text": "set volume to 50 percent", "intent": "set_volume"}
+{"text": "make it louder please", "intent": "volume_up"}
+{"text": "can you stop the sound", "intent": "mute"}
+{"text": "exit audio midi setup", "intent": "close_app"}
+{"text": "hit play", "intent": "media_play_pause"}
+{"text": "screenshot the whole thing", "intent": "screenshot"}
+{"text": "open claude code url handler app", "intent": "open_app"}
+{"text": "force quit news", "intent": "close_app"}
+{"text": "play music on mac", "intent": "media_play_pause"}
+{"text": "i want to watch react hooks tutorial", "intent": "youtube_search"}
+{"text": "open the gemini website", "intent": "open_website"}
+{"text": "show me videos about cats playing", "intent": "youtube_search"}
+{"text": "search for chess openings", "intent": "web_search"}
+{"text": "skip the next", "intent": "next_track"}
+{"text": "turn down the volume", "intent": "volume_down"}
+{"text": "search the web for stock market today", "intent": "web_search"}
+{"text": "open pictures", "intent": "open_folder"}
+{"text": "play cheap flights to goa on youtube", "intent": "youtube_search"}
+{"text": "capture the display", "intent": "screenshot"}
+{"text": "write an essay about climate change", "intent": "other"}
+{"text": "lock my screen please", "intent": "lock_screen"}
+{"text": "i want to open downloads", "intent": "open_folder"}
+{"text": "show me downloads", "intent": "open_folder"}
+{"text": "next song in line", "intent": "next_track"}
+{"text": "can you google linear algebra", "intent": "web_search"}
+{"text": "make the volume 88", "intent": "set_volume"}
+{"text": "kill chess", "intent": "close_app"}
+{"text": "silence the system audio", "intent": "mute"}
+{"text": "load google docs", "intent": "open_website"}
+{"text": "quit disk utility", "intent": "close_app"}
+{"text": "take me to the desktop folder", "intent": "open_folder"}
+{"text": "play my itunes music", "intent": "media_play_pause"}
+{"text": "shut microsoft teams", "intent": "close_app"}
+{"text": "volume 50", "intent": "set_volume"}
+{"text": "ublock origin lite", "intent": "open_app"}
+{"text": "quit the browser", "intent": "close_app"}
+{"text": "find a video on making homemade pizza", "intent": "youtube_search"}
+{"text": "can you play a game", "intent": "other"}
+{"text": "search youtube for gradient descent", "intent": "youtube_search"}
+{"text": "volume to 84 percent", "intent": "set_volume"}
+{"text": "play the song", "intent": "media_play_pause"}
+{"text": "send me to github.com", "intent": "open_website"}
+{"text": "turn the sound down a bit", "intent": "volume_down"}
+{"text": "documents folder here", "intent": "open_folder"}
+{"text": "shut the sound off", "intent": "mute"}
+{"text": "navigate to the gmail website", "intent": "open_website"}
+{"text": "open wikipedia on my google account", "intent": "open_website"}
+{"text": "back to the last song", "intent": "previous_track"}
+{"text": "open documents", "intent": "open_folder"}
+{"text": "force quit google chrome", "intent": "close_app"}
+{"text": "decrease the volume a little", "intent": "volume_down"}
+{"text": "volume 50%", "intent": "set_volume"}
+{"text": "please open the app store", "intent": "open_app"}
+{"text": "exit screenshot", "intent": "close_app"}
+{"text": "type out buy milk", "intent": "type_text"}
+{"text": "navigate to gmail", "intent": "open_website"}
+{"text": "lock the screen immediately", "intent": "lock_screen"}
+{"text": "take me to the movies folder", "intent": "open_folder"}
+{"text": "pull up udemy", "intent": "open_website"}
+{"text": "lock this screen", "intent": "lock_screen"}
+{"text": "open phone", "intent": "open_app"}
+{"text": "play the latest video from youtube", "intent": "youtube_search"}
+{"text": "can you type i will be late today", "intent": "type_text"}
+{"text": "quieter", "intent": "volume_down"}
+{"text": "what's on my calendar today", "intent": "other"}
+{"text": "search google for chess openings", "intent": "web_search"}
+{"text": "capture everything", "intent": "screenshot"}
+{"text": "make the volume 92", "intent": "set_volume"}
+{"text": "open chatgpt", "intent": "open_app"}
+{"text": "play a video about linear algebra in safari", "intent": "youtube_search"}
+{"text": "google movie reviews", "intent": "web_search"}
+{"text": "please open docker", "intent": "open_app"}
+{"text": "downloads folder", "intent": "open_folder"}
+{"text": "open the whole stringer in my google", "intent": "other"}
+{"text": "open the downloads", "intent": "open_folder"}
+{"text": "write lorem ipsum", "intent": "type_text"}
+{"text": "stop this window", "intent": "close_app"}
+{"text": "set a reminder for 3 pm", "intent": "other"}
+{"text": "youtube search gradient descent", "intent": "youtube_search"}
+{"text": "get to gmail", "intent": "open_website"}
+{"text": "change volume to 19", "intent": "set_volume"}
+{"text": "enter the text meeting at five", "intent": "type_text"}
+{"text": "a bit quieter", "intent": "volume_down"}
+{"text": "show downloads folder", "intent": "open_folder"}
+{"text": "write call me back", "intent": "type_text"}
+{"text": "search the web for movie reviews", "intent": "web_search"}
+{"text": "volume to 18 percent", "intent": "set_volume"}
+{"text": "start anydesk", "intent": "open_app"}
+{"text": "find a funny dog videos tutorial on youtube", "intent": "youtube_search"}
+{"text": "play the music app", "intent": "media_play_pause"}
+{"text": "check out the github website", "intent": "open_website"}
+{"text": "i need to write a quick note", "intent": "type_text"}
+{"text": "open stack overflow", "intent": "open_website"}
+{"text": "take me to the pictures folder", "intent": "open_folder"}
+{"text": "type my name is vikram", "intent": "type_text"}
+{"text": "capture the active window", "intent": "screenshot"}
+{"text": "lower the volume a bit", "intent": "volume_down"}
+{"text": "turn it down", "intent": "volume_down"}
+{"text": "search for a video about how to make pancakes", "intent": "youtube_search"}
+{"text": "give me a video of the solar eclipse", "intent": "youtube_search"}
+{"text": "i need to write a few words on the keyboard", "intent": "type_text"}
+{"text": "lower the volume", "intent": "volume_down"}
+{"text": "take me to the documents folder", "intent": "open_folder"}
+{"text": "youtube the weather tomorrow", "intent": "youtube_search"}
+{"text": "play the video about the solar system", "intent": "youtube_search"}
+{"text": "show me the weather in new york city", "intent": "web_search"}
+{"text": "close google chrome", "intent": "close_app"}
+{"text": "set the sound to 2", "intent": "set_volume"}
+{"text": "skip it", "intent": "next_track"}
+{"text": "bring up games", "intent": "open_app"}
+{"text": "send me to gmail.com", "intent": "open_website"}
+{"text": "get rid of podcasts window", "intent": "close_app"}
+{"text": "write dear sir", "intent": "type_text"}
+{"text": "search youtube for the history of rome", "intent": "youtube_search"}
+{"text": "show me my calendar", "intent": "other"}
+{"text": "unpause", "intent": "media_play_pause"}
+{"text": "show me the latest news headlines", "intent": "web_search"}
+{"text": "google react hooks tutorial near me", "intent": "web_search"}
+{"text": "open documents in finder", "intent": "open_folder"}
+{"text": "youtube search stock market today", "intent": "youtube_search"}
+{"text": "open gmail.com in browser", "intent": "open_website"}
+{"text": "search for a video about cooking sushi", "intent": "youtube_search"}
+{"text": "can you open google docs for me", "intent": "open_website"}
+{"text": "can you type lorem ipsum", "intent": "type_text"}
+{"text": "please type see you tomorrow", "intent": "type_text"}
+{"text": "lock the screen now", "intent": "lock_screen"}
+{"text": "close journal", "intent": "close_app"}
+{"text": "close the preview app", "intent": "close_app"}
+{"text": "open up mysqlworkbench", "intent": "open_app"}
+{"text": "visit gmail", "intent": "open_website"}
+{"text": "search about how to tie a tie", "intent": "web_search"}
+{"text": "stop the app window", "intent": "close_app"}
+{"text": "send me to the gmail website", "intent": "open_website"}
+{"text": "open movies", "intent": "open_folder"}
+{"text": "volume to 50 percent", "intent": "set_volume"}
+{"text": "open the coursera website", "intent": "open_website"}
+{"text": "youtube the latest iphone", "intent": "youtube_search"}
+{"text": "volume at 29", "intent": "set_volume"}
+{"text": "launch mission control", "intent": "open_app"}
+{"text": "set the sound to 26", "intent": "set_volume"}
+{"text": "launch mail", "intent": "open_app"}
+{"text": "who won the world cup", "intent": "other"}
+{"text": "open up pgadmin 4", "intent": "open_app"}
+{"text": "write hello world", "intent": "type_text"}
+{"text": "make the volume 4", "intent": "set_volume"}
+{"text": "open my movies folder", "intent": "open_folder"}
+{"text": "bring up docker", "intent": "open_app"}
+{"text": "load google classroom", "intent": "open_website"}
+{"text": "visit gmail.com", "intent": "open_website"}
+{"text": "lock it", "intent": "lock_screen"}
+{"text": "type lorem ipsum", "intent": "type_text"}
+{"text": "raise the volume", "intent": "volume_up"}
+{"text": "open safari and search how to cook biryani", "intent": "web_search"}
+{"text": "load stackoverflow", "intent": "open_website"}
+{"text": "kill activity monitor", "intent": "close_app"}
+{"text": "close this window", "intent": "close_app"}
+{"text": "get rid of safari window", "intent": "close_app"}
+{"text": "open the desktop", "intent": "open_folder"}
+{"text": "run mkplayer", "intent": "open_app"}
+{"text": "visit github", "intent": "open_website"}
+{"text": "find videos about the history of rome", "intent": "youtube_search"}
+{"text": "mute my audio please", "intent": "mute"}
+{"text": "close the program window", "intent": "close_app"}
+{"text": "open applications", "intent": "open_folder"}
+{"text": "launch numbers", "intent": "open_app"}
+{"text": "set the sound to 70", "intent": "set_volume"}
+{"text": "watch stock market today videos", "intent": "youtube_search"}
+{"text": "write out buy milk", "intent": "type_text"}
+{"text": "can you help me with my project", "intent": "other"}
+{"text": "play that video from youtube", "intent": "youtube_search"}
+{"text": "show me the desktop folder", "intent": "open_folder"}
+{"text": "show my applications", "intent": "open_folder"}
+{"text": "can you help me type a quick message", "intent": "type_text"}
+{"text": "find videos about coding tutorials", "intent": "youtube_search"}
+{"text": "close the music app", "intent": "close_app"}
+{"text": "type see you tomorrow", "intent": "type_text"}
+{"text": "get to the github website", "intent": "open_website"}
+{"text": "open desktop in finder", "intent": "open_folder"}
+{"text": "set the sound to 91", "intent": "set_volume"}
+{"text": "please open instagram please", "intent": "open_website"}
+{"text": "youtube funny dog videos", "intent": "youtube_search"}
+{"text": "what's the best movie to watch tonight", "intent": "other"}
+{"text": "let me write something down quickly", "intent": "type_text"}
+{"text": "open google and tell me the time", "intent": "web_search"}
+{"text": "set the sound to 86", "intent": "set_volume"}
+{"text": "close the news app", "intent": "close_app"}
+{"text": "write down dear sir", "intent": "type_text"}
+{"text": "change volume to 74", "intent": "set_volume"}
+{"text": "show me the movies folder", "intent": "open_folder"}
+{"text": "google the latest iphone", "intent": "web_search"}
+{"text": "make the volume 47", "intent": "set_volume"}
+{"text": "summarize this page", "intent": "other"}
+{"text": "write down on my way", "intent": "type_text"}
+{"text": "play music from my library", "intent": "media_play_pause"}
+{"text": "type the words see you soon", "intent": "type_text"}
+{"text": "watch cheap flights to goa videos", "intent": "youtube_search"}
+{"text": "what's the best way to learn coding", "intent": "other"}
+{"text": "turn down the sound", "intent": "volume_down"}
+{"text": "launch preview", "intent": "open_app"}
+{"text": "put volume at 42", "intent": "set_volume"}
+{"text": "play a video about mars rover", "intent": "youtube_search"}
+{"text": "show me a video on lofi beats", "intent": "youtube_search"}
+{"text": "show me a video on how to tie a tie", "intent": "youtube_search"}
+{"text": "turn off all sound", "intent": "mute"}
+{"text": "open deepseek in my google account", "intent": "open_website"}
+{"text": "open xcode app", "intent": "open_app"}
+{"text": "close pages", "intent": "close_app"}
+{"text": "what's the name of the nearest restaurant", "intent": "other"}
+{"text": "play the last song again", "intent": "previous_track"}
+{"text": "type happy birthday", "intent": "type_text"}
+{"text": "open my downloads", "intent": "open_folder"}
+{"text": "take me to amazon.in", "intent": "open_website"}
+{"text": "open image playground", "intent": "open_app"}
+{"text": "no sound please", "intent": "mute"}
+{"text": "can you help me fix my computer", "intent": "other"}
+{"text": "hey, can you mute the sound for me", "intent": "mute"}
+{"text": "quit music", "intent": "close_app"}
+{"text": "lock computer", "intent": "lock_screen"}
+{"text": "pull up reddit", "intent": "open_website"}
+{"text": "play punjabi songs on youtube", "intent": "youtube_search"}
+{"text": "search google for 'best hiking shoes for beginners'", "intent": "web_search"}
+{"text": "quit messages", "intent": "close_app"}
+{"text": "what's the time zone for london", "intent": "other"}
+{"text": "can you open podcasts", "intent": "open_app"}
+{"text": "play the music please", "intent": "media_play_pause"}
+{"text": "volume to 51", "intent": "set_volume"}

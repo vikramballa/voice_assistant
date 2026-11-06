@@ -1,0 +1,119 @@
+{"text": "In Braille browser, open YouTube.", "intent": "multi", "steps": [{"action": "open_website", "args": ["youtube.com", "brave"]}]}
+{"text": "Open Brave and it.", "intent": "multi", "steps": [{"action": "open_app", "args": ["Brave Browser"]}]}
+{"text": "Can you open Safari for me?", "intent": "multi", "steps": [{"action": "open_app", "args": ["Safari"]}]}
+{"text": "Uh, open Notes.", "intent": "multi", "steps": [{"action": "open_app", "args": ["Notes"]}]}
+{"text": "Launch WhatsApp.", "intent": "multi", "steps": [{"action": "open_app", "args": ["WhatsApp"]}]}
+{"text": "Open Telegram please.", "intent": "multi", "steps": [{"action": "open_app", "args": ["Telegram"]}]}
+{"text": "Hey, could you open the Calendar app?", "intent": "multi", "steps": [{"action": "open_app", "args": ["Calendar"]}]}
+{"text": "Open Docker.", "intent": "multi", "steps": [{"action": "open_app", "args": ["Docker"]}]}
+{"text": "Open Postman.", "intent": "multi", "steps": [{"action": "open_app", "args": ["Postman"]}]}
+{"text": "Open Claude.", "intent": "multi", "steps": [{"action": "open_app", "args": ["Claude"]}]}
+{"text": "Open ChatGPT app.", "intent": "multi", "steps": [{"action": "open_app", "args": ["ChatGPT"]}]}
+{"text": "Open Xcode.", "intent": "multi", "steps": [{"action": "open_app", "args": ["Xcode"]}]}
+{"text": "Open Photos.", "intent": "multi", "steps": [{"action": "open_app", "args": ["Photos"]}]}
+{"text": "Open the App Store.", "intent": "multi", "steps": [{"action": "open_app", "args": ["App Store"]}]}
+{"text": "Open Microsoft Teams.", "intent": "multi", "steps": [{"action": "open_app", "args": ["Microsoft Teams"]}]}
+{"text": "Open teams.", "intent": "multi", "steps": [{"action": "open_app", "args": ["Microsoft Teams"]}]}
+{"text": "Open Brave browser.", "intent": "multi", "steps": [{"action": "open_app", "args": ["Brave Browser"]}]}
+{"text": "Open Keynote.", "intent": "multi", "steps": [{"action": "open_app", "args": ["Keynote"]}]}
+{"text": "Open reminders.", "intent": "multi", "steps": [{"action": "open_app", "args": ["Reminders"]}]}
+{"text": "Open settings.", "intent": "multi", "steps": [{"action": "open_app", "args": ["System Settings"]}]}
+{"text": "Open Antigravity.", "intent": "multi", "steps": [{"action": "open_app", "args": ["Antigravity"]}]}
+{"text": "Close Safari.", "intent": "multi", "steps": [{"action": "close_app", "args": ["Safari"]}]}
+{"text": "Quit WhatsApp.", "intent": "multi", "steps": [{"action": "close_app", "args": ["WhatsApp"]}]}
+{"text": "Close the Notes app.", "intent": "multi", "steps": [{"action": "close_app", "args": ["Notes"]}]}
+{"text": "Can you close Docker?", "intent": "multi", "steps": [{"action": "close_app", "args": ["Docker"]}]}
+{"text": "Shut down Telegram.", "intent": "multi", "steps": [{"action": "close_app", "args": ["Telegram"]}]}
+{"text": "Open Gmail.", "intent": "multi", "steps": [{"action": "open_website", "args": ["mail.google.com", "chrome"]}]}
+{"text": "Open Google Drive.", "intent": "multi", "steps": [{"action": "open_website", "args": ["drive.google.com", "chrome"]}]}
+{"text": "Go to Instagram.", "intent": "multi", "steps": [{"action": "open_website", "args": ["instagram.com", "chrome"]}]}
+{"text": "Open LinkedIn in Safari.", "intent": "multi", "steps": [{"action": "open_website", "args": ["linkedin.com", "safari"]}]}
+{"text": "Open Netflix.", "intent": "multi", "steps": [{"action": "open_website", "args": ["netflix.com", "chrome"]}]}
+{"text": "Open Google Maps.", "intent": "multi", "steps": [{"action": "open_website", "args": ["maps.google.com", "chrome"]}]}
+{"text": "Open Gemini.", "intent": "multi", "steps": [{"action": "open_website", "args": ["gemini.google.com", "chrome"]}]}
+{"text": "Go to github.com.", "intent": "multi", "steps": [{"action": "open_website", "args": ["github.com", "chrome"]}]}
+{"text": "Open Reddit in Brave.", "intent": "multi", "steps": [{"action": "open_website", "args": ["reddit.com", "brave"]}]}
+{"text": "Open YouTube in Brave.", "intent": "multi", "steps": [{"action": "open_website", "args": ["youtube.com", "brave"]}]}
+{"text": "Take me to Amazon.", "intent": "multi", "steps": [{"action": "open_website", "args": ["amazon.in", "chrome"]}]}
+{"text": "Open Perplexity.", "intent": "multi", "steps": [{"action": "open_website", "args": ["perplexity.ai", "chrome"]}]}
+{"text": "Open LeetCode.", "intent": "multi", "steps": [{"action": "open_website", "args": ["leetcode.com", "chrome"]}]}
+{"text": "Open Google Calendar.", "intent": "multi", "steps": [{"action": "open_website", "args": ["calendar.google.com", "chrome"]}]}
+{"text": "Visit wikipedia.", "intent": "multi", "steps": [{"action": "open_website", "args": ["wikipedia.org", "chrome"]}]}
+{"text": "Open hugging face.", "intent": "multi", "steps": [{"action": "open_website", "args": ["huggingface.co", "chrome"]}]}
+{"text": "Search for the best biryani in Hyderabad.", "intent": "multi", "steps": [{"action": "web_search", "args": ["the best biryani in hyderabad", "chrome"]}]}
+{"text": "Google how to learn Python.", "intent": "multi", "steps": [{"action": "web_search", "args": ["how to learn python", "chrome"]}]}
+{"text": "Search Google for iPhone 17 price.", "intent": "multi", "steps": [{"action": "web_search", "args": ["iphone 17 price", "chrome"]}]}
+{"text": "Look up the weather tomorrow.", "intent": "multi", "steps": [{"action": "web_search", "args": ["the weather tomorrow", "chrome"]}]}
+{"text": "Search about transformers in deep learning.", "intent": "multi", "steps": [{"action": "web_search", "args": ["transformers in deep learning", "chrome"]}]}
+{"text": "Search YouTube for Arijit Singh songs.", "intent": "multi", "steps": [{"action": "youtube_search", "args": ["arijit singh songs", "chrome"]}]}
+{"text": "Play lofi music on YouTube.", "intent": "multi", "steps": [{"action": "youtube_search", "args": ["lofi music", "chrome"]}]}
+{"text": "Find videos about machine learning.", "intent": "multi", "steps": [{"action": "youtube_search", "args": ["machine learning", "chrome"]}]}
+{"text": "Search on YouTube how to make tea.", "intent": "multi", "steps": [{"action": "youtube_search", "args": ["how to make tea", "chrome"]}]}
+{"text": "YouTube cricket highlights.", "intent": "multi", "steps": [{"action": "youtube_search", "args": ["cricket highlights", "chrome"]}]}
+{"text": "Open YouTube and search for React tutorial.", "intent": "multi", "steps": [{"action": "youtube_search", "args": ["react tutorial", "chrome"]}]}
+{"text": "Open Brave and search for Python jobs.", "intent": "multi", "steps": [{"action": "web_search", "args": ["python jobs", "brave"]}]}
+{"text": "Open Safari and search YouTube for cats.", "intent": "multi", "steps": [{"action": "youtube_search", "args": ["cats", "safari"]}]}
+{"text": "In Brave, search for cheap laptops.", "intent": "multi", "steps": [{"action": "web_search", "args": ["cheap laptops", "brave"]}]}
+{"text": "Open Google and search for Bangalore weather.", "intent": "multi", "steps": [{"action": "web_search", "args": ["bangalore weather", "chrome"]}]}
+{"text": "Open Downloads.", "intent": "multi", "steps": [{"action": "open_folder", "args": ["downloads"]}]}
+{"text": "Show me my Documents folder.", "intent": "multi", "steps": [{"action": "open_folder", "args": ["documents"]}]}
+{"text": "Open the desktop folder.", "intent": "multi", "steps": [{"action": "open_folder", "args": ["desktop"]}]}
+{"text": "Pause.", "intent": "multi", "steps": [{"action": "media_play_pause", "args": ["pause"]}]}
+{"text": "Pause the song.", "intent": "multi", "steps": [{"action": "media_play_pause", "args": ["pause"]}]}
+{"text": "Play the music.", "intent": "multi", "steps": [{"action": "media_play_pause", "args": ["play"]}]}
+{"text": "Resume.", "intent": "multi", "steps": [{"action": "media_play_pause", "args": ["play"]}]}
+{"text": "Next song.", "intent": "multi", "steps": [{"action": "next_track", "args": []}]}
+{"text": "Skip.", "intent": "multi", "steps": [{"action": "next_track", "args": []}]}
+{"text": "Play the next track.", "intent": "multi", "steps": [{"action": "next_track", "args": []}]}
+{"text": "Previous song.", "intent": "multi", "steps": [{"action": "previous_track", "args": []}]}
+{"text": "Go back to the last song.", "intent": "multi", "steps": [{"action": "previous_track", "args": []}]}
+{"text": "Volume up.", "intent": "multi", "steps": [{"action": "volume_up", "args": []}]}
+{"text": "Increase the volume.", "intent": "multi", "steps": [{"action": "volume_up", "args": []}]}
+{"text": "Make it louder.", "intent": "multi", "steps": [{"action": "volume_up", "args": []}]}
+{"text": "Volume down.", "intent": "multi", "steps": [{"action": "volume_down", "args": []}]}
+{"text": "Decrease volume.", "intent": "multi", "steps": [{"action": "volume_down", "args": []}]}
+{"text": "It's too loud.", "intent": "multi", "steps": [{"action": "volume_down", "args": []}]}
+{"text": "Set volume to 50.", "intent": "multi", "steps": [{"action": "set_volume", "args": ["50"]}]}
+{"text": "Volume 30.", "intent": "multi", "steps": [{"action": "set_volume", "args": ["30"]}]}
+{"text": "Set the volume to 75 percent.", "intent": "multi", "steps": [{"action": "set_volume", "args": ["75"]}]}
+{"text": "Mute.", "intent": "multi", "steps": [{"action": "mute", "args": []}]}
+{"text": "Mute the volume.", "intent": "multi", "steps": [{"action": "mute", "args": []}]}
+{"text": "Type hello how are you.", "intent": "multi", "steps": [{"action": "type_text", "args": ["hello how are you"]}]}
+{"text": "Write good morning everyone.", "intent": "multi", "steps": [{"action": "type_text", "args": ["good morning everyone"]}]}
+{"text": "Take a screenshot.", "intent": "multi", "steps": [{"action": "screenshot", "args": []}]}
+{"text": "Screenshot.", "intent": "multi", "steps": [{"action": "screenshot", "args": []}]}
+{"text": "Capture my screen.", "intent": "multi", "steps": [{"action": "screenshot", "args": []}]}
+{"text": "Lock my Mac.", "intent": "multi", "steps": [{"action": "lock_screen", "args": []}]}
+{"text": "Lock the screen.", "intent": "multi", "steps": [{"action": "lock_screen", "args": []}]}
+{"text": "Lock.", "intent": "multi", "steps": [{"action": "lock_screen", "args": []}]}
+{"text": "Open Notes and type meeting at 5.", "intent": "multi", "steps": [{"action": "open_app", "args": ["Notes"]}, {"action": "type_text", "args": ["meeting at 5"]}]}
+{"text": "Mute and lock the screen.", "intent": "multi", "steps": [{"action": "mute", "args": []}, {"action": "lock_screen", "args": []}]}
+{"text": "Open WhatsApp and set volume to 20.", "intent": "multi", "steps": [{"action": "open_app", "args": ["WhatsApp"]}, {"action": "set_volume", "args": ["20"]}]}
+{"text": "Take a screenshot then open downloads.", "intent": "multi", "steps": [{"action": "screenshot", "args": []}, {"action": "open_folder", "args": ["downloads"]}]}
+{"text": "Open Gmail and open YouTube.", "intent": "multi", "steps": [{"action": "open_website", "args": ["mail.google.com", "chrome"]}, {"action": "open_website", "args": ["youtube.com", "chrome"]}]}
+{"text": "Close Safari and open Brave.", "intent": "multi", "steps": [{"action": "close_app", "args": ["Safari"]}, {"action": "open_app", "args": ["Brave Browser"]}]}
+{"text": "What time is it?", "intent": "multi", "steps": null, "llm_action": "tell_time"}
+{"text": "What's today's date?", "intent": "multi", "steps": null, "llm_action": "tell_time"}
+{"text": "How much battery is left?", "intent": "multi", "steps": null, "llm_action": "battery_status"}
+{"text": "Is my Mac charging?", "intent": "multi", "steps": null, "llm_action": "battery_status"}
+{"text": "Turn on dark mode.", "intent": "multi", "steps": null, "llm_action": "dark_mode"}
+{"text": "Switch to light mode.", "intent": "multi", "steps": null, "llm_action": "dark_mode"}
+{"text": "Tell me a joke.", "intent": "multi", "steps": null, "llm_action": "answer"}
+{"text": "What is machine learning?", "intent": "multi", "steps": null, "llm_action": "answer"}
+{"text": "Who is the prime minister of India?", "intent": "multi", "steps": null, "llm_action": "answer"}
+{"text": "How are you?", "intent": "multi", "steps": null, "llm_action": "answer"}
+{"text": "Thank you.", "intent": "multi", "steps": null, "llm_action": "answer"}
+{"text": "What can you do?", "intent": "multi", "steps": null, "llm_action": "answer"}
+{"text": "Open.", "intent": "multi", "steps": null, "llm_action": "ask"}
+{"text": "Search.", "intent": "multi", "steps": null, "llm_action": "ask"}
+{"text": "What's the weather?", "intent": "multi", "steps": null, "llm_action": "weather"}
+{"text": "Will it rain in Mumbai today?", "intent": "multi", "steps": null, "llm_action": "weather"}
+{"text": "What are you seeing?", "intent": "multi", "steps": [{"action": "look_at_screen", "args": ["What are you seeing?"]}]}
+{"text": "Remove that.", "intent": "multi", "steps": [{"action": "clear_text", "args": ["all"]}]}
+{"text": "Can you see my recent chats?", "intent": "multi", "steps": [{"action": "look_at_screen", "args": ["Can you see my recent chats?"]}]}
+{"text": "Stop the music.", "intent": "multi", "steps": [{"action": "media_play_pause", "args": ["pause"]}]}
+{"text": "Give me the last 5 days.", "intent": "multi", "steps": [{"action": "click", "args": ["5D"]}]}
+{"text": "Pick the first account.", "intent": "multi", "steps": [{"action": "click", "args": ["first account"]}]}
+{"text": "Write a note saying buy milk.", "intent": "multi", "steps": [{"action": "write_note", "args": ["buy milk"]}]}
+{"text": "Open ChatGPT in Brave browser.", "intent": "multi", "steps": [{"action": "open_website", "args": ["chatgpt.com", "brave"]}]}
+{"text": "Type hello there and send it.", "intent": "multi", "steps": [{"action": "type_text", "args": ["hello there"]}, {"action": "press_keys", "args": ["enter"]}]}

@@ -1,0 +1,16 @@
+# Minimal deps to run just the vision model as a server (assistant/vision_service.py), e.g. on a Linux
+# box like Contabo — no macOS, no mic/speaker, no MLX. Install with:
+#   pip install -r requirements-vision.txt
+#   python -m assistant.vision_service
+# Add a CUDA build of torch first (see https://pytorch.org/get-started/locally/) if the server has a GPU;
+# plain `torch` below is the CPU build and works either way, just slower without CUDA.
+fastapi==0.141.1
+uvicorn==0.54.0
+python-multipart==0.0.32
+pillow==12.3.0
+torch==2.14.0
+transformers==5.17.0
+huggingface-hub==1.33.0
+safetensors==0.8.0
+sentencepiece==0.2.2
+numpy==2.5.3
